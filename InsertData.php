@@ -177,46 +177,9 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 									</div>
 								</ul>
 							</li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Furniture <b class="caret"></b></a>
-								<ul class="dropdown-menu multi-column columns-3">
-									<div class="row">
-										<div class="col-sm-4">
-											<ul class="multi-column-dropdown">
-												<h6>Build Collection</h6>
-												<li><a href="furniture.html">Toy 17</a></li>
-												<li><a href="furniture.html">Toy 18</a></li>
-												<li><a href="furniture.html">Toy 19</a></li>
-												<li><a href="furniture.html">Toy 20</a></li>
-												<li><a href="furniture.html">Toy 21</a></li>
-											</ul>
-										</div>
-										<div class="col-sm-4">
-											<ul class="multi-column-dropdown">
-												<h6>Doll Collection</h6>
-												<li><a href="furniture.html">Toy 22</a></li>
-												<li><a href="furniture.html">Toy 23</a></li>
-												<li><a href="furniture.html">Toy 24</a></li>
-												<li><a href="furniture.html">Toy 25</a></li>
-												<li><a href="furniture.html">Toy 26</a></li>
-												<li><a href="furniture.html">Toy 27</a></li>
-											</ul>
-										</div>
-										<div class="col-sm-4">
-											<ul class="multi-column-dropdown">
-												<h6>Decorations</h6>
-												<li><a href="furniture.html">Toys</a></li>
-												<li><a href="furniture.html">Wallpaper</a></li>
-												<li><a href="furniture.html">Lighting</a></li>
-												<li><a href="furniture.html">Top Brands</a></li>
-											</ul>
-										</div>
-										<div class="clearfix"></div>
-									</div>
-								</ul>
-							</li>
+							
 							<li class="active"><a href="short-codes.html" class="act">Short Codes</a></li>
-							<li><a href="mail.html">Mail Us</a></li>
+							
 						</ul>
 					</div>
 					</nav>
